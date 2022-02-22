@@ -1,8 +1,6 @@
-Hallo Everybody, I am KachowProducts
-I love Lightning McQueen
+# Hallo Everbody, I am KachowProducts
+I am addicted to Lightning McQueen
+____________________________________
+### Motivation :rocket:
 
-other things about me:
-DYL X ML X XS
-
-Yeeeeeeeeeeeeelin
-Phelix
+Yeeeeeeeeeeeeeeeeeeelin
