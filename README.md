@@ -2,7 +2,4 @@
 I am addicted to Lightning McQueen
 ____________________________________
 ### Motivation 
-
-Yeeeeeeeeeeeeeeeeeeelin
-also
-DYL
+chocolate
